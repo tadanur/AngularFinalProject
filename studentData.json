@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Beril Adanur",
+      "gradeLevel": "1st Grade"
+    },
+    {
+      "id": 2,
+      "name": "Nalan Bayrak",
+      "gradeLevel": "2nd Grade"
+    },
+    {
+      "id": 3,
+      "name": "Mesut Arslan",
+      "gradeLevel": "4th Grade"
+    },
+    {
+      "id": 4,
+      "name": "Azra Odabas",
+      "gradeLevel": "5th Grade"
+    },
+    {
+      "id": 5,
+      "name": "Osman Chucker",
+      "gradeLevel": "5th Grade"
+    }
+  ]
+}

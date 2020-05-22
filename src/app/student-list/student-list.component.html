@@ -1,0 +1,7 @@
+<h2>Student List</h2>
+<ul>
+    <li *ngFor="let student of students">{{student.name}} is a {{student.gradeLevel}} student.
+        <button (click)="deleteStudent(student.id)">Delete</button>
+        <a [routerLink]="['/edit', student.id]"><button>Edit</button></a>
+    </li>
+</ul>
